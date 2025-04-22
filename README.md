@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Backend API
 
 A Spring Boot-based E-Commerce backend API that provides functionality for managing users, products, categories, carts, and orders.
@@ -134,3 +135,6 @@ The product listing API supports pagination and sorting:
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request 
+=======
+# ecommerce
+>>>>>>> 6531976f7aa67542daa37d36b875f65cde9e916e
